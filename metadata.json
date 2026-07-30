@@ -1,0 +1,5 @@
+{
+  "name": "Pet Adoption Platform",
+  "description": "A comprehensive platform to connect loving homes with pets in need. Users can browse available pets, apply for adoption, and shelters can list animals. Features an AI-powered assistant to help with adoption queries.",
+  "requestFramePermissions": []
+}
